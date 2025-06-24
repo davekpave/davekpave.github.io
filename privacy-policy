@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pearfect Match Privacy Policy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Effective Date:</strong> June 3, 2025</p>
+  <p>
+    Rizzard Games ("we", "our", or "us") respects your privacy. This Privacy Policy explains how we handle information in our mobile game ("the App"), available on the Google Play Store.
+  </p>
+
+  <h2>1. Information We Collect</h2>
+  <ul>
+    <li>
+      <strong>Leaderboard Data:</strong>
+      If you choose to submit your score to the online leaderboard, we collect your chosen player name and selected country. This information is stored in our online database (Firebase/Firestore) and is visible to other players.
+    </li>
+    <li>
+      <strong>Ads:</strong>
+      The App displays rewarded ads using Google AdMob. AdMob may collect device information and usage data as described in <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google’s Privacy Policy</a>.
+    </li>
+    <li>
+      <strong>Local Game Data:</strong>
+      Your game progress (such as completed levels and local leaderboard) is stored locally on your device. We do not access or transmit this data to our servers.
+    </li>
+  </ul>
+
+  <h2>2. How We Use Information</h2>
+  <ul>
+    <li>To display your name and country on the online leaderboard.</li>
+    <li>To provide rewarded ads and track ad rewards.</li>
+    <li>To save your game progress and scores locally.</li>
+  </ul>
+
+  <h2>3. Children’s Privacy</h2>
+  <p>
+    We take privacy seriously, especially for children. The App is designed to be safe for all ages and does not contain:
+  </p>
+  <ul>
+    <li>In-app purchases</li>
+    <li>External links or social sharing</li>
+  </ul>
+  <p>
+    If a parent or guardian believes that we have inadvertently collected information from a child, please contact us immediately (see contact below).
+  </p>
+
+  <h2>4. Third-Party Services</h2>
+  <ul>
+    <li>
+      <strong>Google AdMob:</strong> Used for rewarded ads. AdMob may collect device and usage data.
+    </li>
+    <li>
+      <strong>Firebase/Firestore:</strong> Used to store and display leaderboard data (player name and country).
+    </li>
+  </ul>
+  <p>
+    Please review the privacy policies of these providers for more information.
+  </p>
+
+  <h2>5. Changes to This Policy</h2>
+  <p>
+    We may update this Privacy Policy to reflect changes to our practices. The latest version will always be available within the App or on our website.
+  </p>
+
+  <h2>6. Contact Us</h2>
+  <p>
+    If you have any questions about this Privacy Policy or your data, you may contact us at:<br>
+    <a href="mailto:davekpave@gmail.com">davekpave@gmail.com</a>
+  </p>
+
+  <h2>7. Platform Compliance</h2>
+  <ul>
+    <li>Google Play Family Policy</li>
+  </ul>
+</body>
+</html>
