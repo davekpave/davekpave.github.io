@@ -1,8 +1,9 @@
-google.com, pub-7111004892745382, DIRECT, f08c47fec0942fa0
-rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
-onetag.com, 93e5a2698355c5c, DIRECT
-onetag.com, 93e5a2698355c5c-OB, DIRECT
-appnexus.com, 13099, RESELLER
-pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
-rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
-video.unrulymedia.com, 586616193, RESELLER
+# app-ads.txt for PearfectMatch# app-ads.txt for PearfectMatch
+
+# This file authorizes Google AdMob to serve ads for this app# This file authorizes Google AdMob to serve ads for this app
+
+# Publisher ID: pub-7111004892745382# Publisher ID: pub-7111004892745382
+
+
+
+google.com, pub-7111004892745382, DIRECT, f08c47fec0942fa0google.com, pub-7111004892745382, DIRECT, f08c47fec0942fa0
