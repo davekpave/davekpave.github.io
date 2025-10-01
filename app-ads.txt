@@ -1,9 +1,1 @@
-# app-ads.txt for PearfectMatch# app-ads.txt for PearfectMatch
-
-# This file authorizes Google AdMob to serve ads for this app# This file authorizes Google AdMob to serve ads for this app
-
-# Publisher ID: pub-7111004892745382# Publisher ID: pub-7111004892745382
-
-
-
-google.com, pub-7111004892745382, DIRECT, f08c47fec0942fa0google.com, pub-7111004892745382, DIRECT, f08c47fec0942fa0
+google.com, pub-7111004892745382, DIRECT, f08c47fec0942fa0
