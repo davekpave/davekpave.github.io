@@ -1,9 +1,12 @@
+AdMob:
 google.com, pub-7111004892745382, DIRECT, f08c47fec0942fa0
+OneTag:
 onetag.com, 93e5a2698355c5c, DIRECT
 onetag.com, 93e5a2698355c5c-OB, DIRECT
 appnexus.com, 13099, RESELLER
 pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 586616193, RESELLER
+Equativ:
 smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
