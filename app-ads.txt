@@ -7,9 +7,6 @@ appnexus.com, 13099, RESELLER
 pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 586616193, RESELLER
-Equativ:
-smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
-smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
 InMobi:
 inmobi.com, 52127e6e2cfc4f99b2a42fe4f3bcb1e0, DIRECT, 83e75a7ae333ca9d
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
@@ -42,9 +39,6 @@ appnexus.com, 15670, RESELLER
 ironSource:
 OWNERDOMAIN=[yourdomain.com]
 ironsrc.com, [yourironSourcePublisherAccountID], Direct
-Remember to replace the OwnerDomain Line with your domain. 
-Remember to replace [yourironSourcePublisherAccountID] with your account ID, which you can get from your account manager
-
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 2464975885, RESELLER
 outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, RESELLER
